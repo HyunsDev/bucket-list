@@ -19,6 +19,9 @@
 - [ ] Typescript
 - [ ] electron
 
+## CI/CD
+- [ ] Github Action
+
 ## 웹
 - [ ] https
 
