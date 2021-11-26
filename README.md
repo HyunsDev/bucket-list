@@ -35,7 +35,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 ||TypeScript|JS의 자주 발생하는 오류 해결|
 ||Rust|변태적인 메모리 관리|
 
-## CI/CD & 배포
+## CI/CD & Deploy
 |✅|Name|Reason|
 |-|-|-|
 ||Github Action|빌드&배포 자동화|
@@ -46,13 +46,14 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 ||AWS S3|클라우드 드라이브|
 |✅|AWS lightsail|클라우드 서버|
 
-## TODO
+## Project
 
 ### 커스텀 도메인 연결 및 자동 SSL 인증서 발급 서버 개발하기 - 
 oopy등의 사이트 처럼, 다른 도메인에서 서버를 등록하고, 자동으로 SSL 인증서 발급등을 처리하는 서버
 
 ### 좋은 코드(오픈소스 등)을 찾아보고 분석하기
 
+### PC, 모바일, API로 사용가능한 범용적인 
 
 # 디자인
 ## Tools
