@@ -34,6 +34,8 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 |-|-|-|
 ||TypeScript|JS의 자주 발생하는 오류 해결|
 ||Rust|변태적인 메모리 관리|
+||GIT|Commit, branch, FR, issue, CR 제대로 해보기|
+||JSDoc|자동 문서화|
 
 ## CI/CD & Deploy
 |✅|Name|Reason|
@@ -54,8 +56,7 @@ oopy등의 사이트 처럼, 다른 도메인에서 서버를 등록하고, 자�
 - 좋은 코드(오픈소스 등)을 찾아보고 분석하기
 - PC, 모바일, API로 사용가능한 범용적인 메모 앱
 - AWS를 이용한 이미지 처리 서버
-
-### 
+- 오픈소스에 참여하기!
 
 # Design
 ## Tools
