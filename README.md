@@ -36,6 +36,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 ||Rust|변태적인 메모리 관리|
 ||GIT|Commit, branch, FR, issue, CR 제대로 해보기|
 ||JSDoc|자동 문서화|
+||Jest|자바스크립트 TDD|
 
 ## CI/CD & Deploy
 |✅|Name|Reason|
