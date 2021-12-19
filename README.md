@@ -8,22 +8,22 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 ## Frontend & APP & Program
 |✅|Name|Reason|
 |-|-|-|
-||**React**|프론트엔드|
+|✅|**React**|프론트엔드|
 ||styled-component|프론트엔드 트랜드|
 ||Next.js|SEO 최적화|
 ||Redux|대규모 리액트 프로젝트|
-||p5.js|인터렉티브 웹디자인|
+|✅|p5.js|인터렉티브 웹디자인|
 ||lotte.js|인터렉티브 웹디자인|
 ||svelte|새로운 프론트엔드 타입|
 ||React Native|모바일|
-||Electron|PC용 프로그램 제작|
+|✅|Electron|PC용 프로그램 제작|
 
 ## Backend
 |✅|Name|Reason|
 |-|-|-|
 ||Firebase|새로운 백엔드|
-||Serverless|서버 비용 감소 및 새로운 백엔드|
-||mongoDB|Nosql 데이터베이스 학습|
+|✅|Serverless|서버 비용 감소 및 새로운 백엔드|
+|✅|mongoDB|Nosql 데이터베이스 학습|
 ||OpenSSL|자동 인증서 갱신|
 ||mariaDB|심화 데이터베이스|
 
@@ -43,10 +43,10 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 |-|-|-|
 ||Github Action|빌드&배포 자동화|
 ||Jenkins|빌드&배포 자동화|
-||Vercel|배포|
+|✅|Vercel|배포|
 ||Netlify|배포|
-||AWS Ramda|AWS 심화|
-||AWS S3|클라우드 드라이브|
+|✅|AWS Ramda|AWS 심화|
+|✅|AWS S3|클라우드 드라이브|
 |✅|AWS lightsail|클라우드 서버|
 
 ## Project
@@ -64,8 +64,6 @@ oopy등의 사이트 처럼, 다른 도메인에서 서버를 등록하고, 자�
 - [ ] 노션 API 워크숍
 - [ ] 학교 SSR 제출 프로그램
 - [ ] 빔 프로젝터와 개발을 섞은 미디어 아트
-- [ ] JSON을 기반으로 하는 간이 데이터베이스 모듈
-
 
 # Design
 ## Tools
