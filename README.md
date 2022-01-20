@@ -25,7 +25,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 |✅|Serverless|서버 비용 감소 및 새로운 백엔드|
 |✅|mongoDB|Nosql 데이터베이스 학습|
 ||OpenSSL|자동 인증서 갱신|
-||mariaDB|심화 데이터베이스|
+|✅|mariaDB|심화 데이터베이스|
 
 ## Programming
 > 프론트엔드와 백엔드에 속하지 않은 항목입니다.
@@ -34,7 +34,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 |-|-|-|
 ||TypeScript|JS의 자주 발생하는 오류 해결|
 ||Rust|변태적인 메모리 관리|
-||GIT|Commit, branch, FR, issue, CR 제대로 해보기|
+|✅|GIT|Commit, branch, FR, issue, CR 제대로 해보기|
 ||JSDoc|자동 문서화|
 ||Jest|자바스크립트 TDD|
 
