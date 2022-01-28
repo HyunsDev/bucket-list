@@ -18,6 +18,18 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 ||React Native|모바일|
 |✅|Electron|PC용 프로그램 제작|
 
+### React
+|✅|Hook|
+|-|-|
+|✅|useState|
+|✅|useEffect|
+|✅|useRef|
+|✅|useContext|
+||useLayoutEffect|
+||useReducer|
+||useCallback|
+||useMemo|
+
 ## Backend
 |✅|Name|Reason|
 |-|-|-|
