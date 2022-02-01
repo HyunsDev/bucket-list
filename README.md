@@ -28,7 +28,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 ||useLayoutEffect|
 ||useReducer|
 ||useCallback|
-||useMemo|
+|✅|useMemo|
 
 ## Backend
 |✅|Name|Reason|
