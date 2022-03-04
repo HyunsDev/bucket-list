@@ -27,7 +27,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 |✅|useContext|
 ||useLayoutEffect|
 ||useReducer|
-||useCallback|
+|✅|useCallback|
 |✅|useMemo|
 
 ## Backend
@@ -44,7 +44,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 
 |✅|Name|Reason|
 |-|-|-|
-||TypeScript|JS의 자주 발생하는 오류 해결|
+|✅|TypeScript|JS의 자주 발생하는 오류 해결|
 ||Rust|변태적인 메모리 관리|
 |✅|GIT|Commit, branch, FR, issue, CR 제대로 해보기|
 ||JSDoc|자동 문서화|
@@ -56,7 +56,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 ||Github Action|빌드&배포 자동화|
 ||Jenkins|빌드&배포 자동화|
 |✅|Vercel|배포|
-||Netlify|배포|
+|✅|Netlify|배포|
 |✅|AWS Ramda|AWS 심화|
 |✅|AWS S3|클라우드 드라이브|
 |✅|AWS lightsail|클라우드 서버|
@@ -88,7 +88,7 @@ oopy등의 사이트 처럼, 다른 도메인에서 서버를 등록하고, 자�
 
 ## TODO
 - [ ] 구글, 토스의 UI를 디자인툴로 다시 그리기 + 수치 저장하기
-- [ ] 나만의 범용 에셋 제작하기
+- [✅] 나만의 범용 에셋 제작하기
 - [ ] 다른 사람의 디자인 파일 뜯어보기
 
 # Other
