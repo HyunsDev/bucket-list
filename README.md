@@ -23,9 +23,8 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 ||svelte|새로운 프론트엔드 타입|
 ||React Native|모바일|
 |✅|Electron|PC용 프로그램 제작|
-||React Query|
+|✅|React Query|
 |✅|React Hook Form|
-||SWR|
 ||Recoil|
 ||Emotion|
 
@@ -40,7 +39,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 ||useReducer|
 |✅|useCallback|
 |✅|useMemo|
-||suspense|
+|✅|suspense|
 
 
 ## Backend
@@ -60,13 +59,13 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 |✅|TypeScript|JS의 자주 발생하는 오류 해결|
 ||Rust|변태적인 메모리 관리|
 |✅|GIT|Commit, branch, FR, issue, CR 제대로 해보기|
-||JSDoc|자동 문서화|
+|✅|JSDoc|자동 문서화|
 |✅|Jest/Mocha|자바스크립트 TDD|
 
 ## CI/CD & Deploy
 |✅|Name|Reason|
 |-|-|-|
-||Github Action|빌드&배포 자동화|
+|✅|Github Action|빌드&배포 자동화|
 ||Jenkins|빌드&배포 자동화|
 |✅|Vercel|배포|
 |✅|Netlify|배포|
@@ -109,7 +108,7 @@ oopy등의 사이트 처럼, 다른 도메인에서 서버를 등록하고, 자�
 |-|-|-|
 ||blender|3D 이미지&애니메이션 제작|
 ||illusrator|벡터 이미지(svg등) 제작|
-||Figma|새로운 프로토타이핑 툴|
+|✅|Figma|새로운 프로토타이핑 툴|
 |✅|Adobe XD|웹 디자인 툴|
 
 ## TODO
