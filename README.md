@@ -36,7 +36,7 @@ kategorie는 관련 분야 혹은 언어, reason은 해당 항목을 하고 싶�
 |✅|useRef|
 |✅|useContext|
 ||useLayoutEffect|
-||useReducer|
+|✅|useReducer|
 |✅|useCallback|
 |✅|useMemo|
 |✅|suspense|
@@ -106,15 +106,15 @@ oopy등의 사이트 처럼, 다른 도메인에서 서버를 등록하고, 자�
 ## Tools
 |✅|Name|Reason|
 |-|-|-|
-||blender|3D 이미지&애니메이션 제작|
-||illusrator|벡터 이미지(svg등) 제작|
+|✅|blender|3D 이미지&애니메이션 제작|
+|✅|illusrator|벡터 이미지(svg등) 제작|
 |✅|Figma|새로운 프로토타이핑 툴|
 |✅|Adobe XD|웹 디자인 툴|
 
 ## TODO
 - [ ] 구글, 토스의 UI를 디자인툴로 다시 그리기 + 수치 저장하기
 - [✅] 나만의 범용 에셋 제작하기
-- [ ] 다른 사람의 디자인 파일 뜯어보기
+- [✅] 다른 사람의 디자인 파일 뜯어보기
 
 # Other
 |✅|Name|Reason|
